@@ -49,7 +49,7 @@ order-data-analysis/
 - Verified data using SQL queries
 
 ## 💼 Why This Project Matters
-"Garbage in, garbage out" — no analysis or machine learning model can succeed without clean data.
+"Garbage in, garbage out" — no analysis or machine learning model can succeed without clean data. <br>
 ✨ This project highlights my ability to:
 - Understand raw data structures
 - Apply professional cleaning methods
