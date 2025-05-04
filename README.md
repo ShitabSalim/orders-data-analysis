@@ -42,11 +42,11 @@ order-data-analysis/
 
 ## 📊 Summary of Cleaning Steps
 
-✅ Dropped or imputed missing values
-✅ Converted date columns to datetime format
-✅ Cleaned and standardized column names
-✅ Removed duplicates
-✅ Verified data using SQL queries
+- Dropped or imputed missing values
+- Converted date columns to datetime format
+- Cleaned and standardized column names
+- Removed duplicates
+- Verified data using SQL queries
 
 ## 💼 Why This Project Matters
 "Garbage in, garbage out" — no analysis or machine learning model can succeed without clean data.
@@ -61,7 +61,7 @@ git clone https://github.com/your-username/order-data-analysis.git
 cd order-data-analysis
 ```
 - Open the notebook in Jupyter:
-- ```bash
+```bash
 jupyter notebook notebooks/orders_data_analysis.ipynb
 ```
 - Make sure orders.csv is present in the data/ folder.
