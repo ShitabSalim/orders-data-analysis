@@ -1,3 +1,4 @@
+![OrderlyData Banner](assets/banner.png)
 # Order Data Cleaning and Preparation Project
 
 This project demonstrates essential **data cleaning and preprocessing techniques** using Python and SQL on a real-world e-commerce order dataset. Effective data cleaning is the backbone of any data science or analytics project—and this notebook focuses precisely on that.
