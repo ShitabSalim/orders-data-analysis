@@ -38,6 +38,7 @@ order-data-analysis/
 │
 ├── README.md                      # Project description
 └── .gitignore                     # Files to ignore in repo
+```
 
 ## 📊 Summary of Cleaning Steps
 
@@ -53,3 +54,16 @@ order-data-analysis/
 - Understand raw data structures
 - Apply professional cleaning methods
 - Use both Python and SQL for robust preprocessing
+## 🚀 How to Run the Project
+- Clone the repository:
+```bash
+git clone https://github.com/your-username/order-data-analysis.git
+cd order-data-analysis
+```
+- Open the notebook in Jupyter:
+- ```bash
+jupyter notebook notebooks/orders_data_analysis.ipynb
+```
+- Make sure orders.csv is present in the data/ folder.
+
+
