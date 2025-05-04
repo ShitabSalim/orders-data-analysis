@@ -1,4 +1,4 @@
-# 🧹 Order Data Cleaning and Preparation Project
+# Order Data Cleaning and Preparation Project
 
 This project demonstrates essential **data cleaning and preprocessing techniques** using Python and SQL on a real-world e-commerce order dataset. Effective data cleaning is the backbone of any data science or analytics project—and this notebook focuses precisely on that.
 
@@ -38,3 +38,18 @@ order-data-analysis/
 │
 ├── README.md                      # Project description
 └── .gitignore                     # Files to ignore in repo
+
+## 📊 Summary of Cleaning Steps
+
+✅ Dropped or imputed missing values
+✅ Converted date columns to datetime format
+✅ Cleaned and standardized column names
+✅ Removed duplicates
+✅ Verified data using SQL queries
+
+## 💼 Why This Project Matters
+"Garbage in, garbage out" — no analysis or machine learning model can succeed without clean data.
+- This project highlights my ability to:
+- Understand raw data structures
+- Apply professional cleaning methods
+- Use both Python and SQL for robust preprocessing
